@@ -11,10 +11,10 @@
 }
 .box{
     height: auto;
-    max-width: auto;
-    border: 1px solid white;
+    width: 1000px;
+    border: 1px solid none;
     padding: 2px;
-    text-align: justify;
+    text-align: normal;
     margin-left: 100px;
     margin-right: 200px;
 }
