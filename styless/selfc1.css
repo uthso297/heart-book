@@ -1,0 +1,32 @@
+*{
+    background-color: aliceblue;
+}
+.main{
+    display: flex;
+    height: auto;
+    width: auto;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.box{
+    height: auto;
+    width: auto;
+    border: 1px solid white;
+    padding: 2px;
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+.box1{
+    height: 200px;
+    max-width: auto;
+    background-color: white;
+    border: 1px solid white;
+    padding: 10px;
+    text-align: justify;
+    margin-right: 25%;
+
+}
+input,button{
+    margin-bottom: 10px;
+}
